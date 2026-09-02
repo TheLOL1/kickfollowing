@@ -1,0 +1,13 @@
+{
+  "addons": {
+    "kick-streamers-online@gabriel.dev": {
+      "updates": [
+        {
+          "version": "1.1.0",
+          "update_link": "https://github.com/TheLOL1/kickfollowing/releases/download/v1.1.0/e6237e4c33be41b3aa13-1.1.0.xpi",
+          "update_hash": "sha256:118fcaa2e921eb7874d64d20ef41c7c6a9b11d9a4d67acc95773970e09049b92"
+        }
+      ]
+    }
+  }
+}

@@ -61,6 +61,11 @@
           "version": "1.6.3",
           "update_link": "https://github.com/TheLOL1/kickfollowing/releases/download/v1.6.3/e6237e4c33be41b3aa13-1.6.3.xpi",
           "update_hash": "sha256:3e3e640ca4df59c8630f1ecc88af60593765e3e723b0da8be1f795dd240b9dfc"
+        },
+        {
+          "version": "1.6.4",
+          "update_link": "https://github.com/TheLOL1/kickfollowing/releases/download/v1.6.4/e6237e4c33be41b3aa13-1.6.4.xpi",
+          "update_hash": "sha256:98282ac41bd7636d40175e14a4df9e399b7f82aacdea742badd27a4b8a97b838"
         }
       ]
     }
